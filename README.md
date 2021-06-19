@@ -2,7 +2,7 @@
 
 ##This is a very simple app where it contains implementation of advanced react concepts like React-router, useState, useEffect, custom Hooks, React Context.
 
-##I have used Fire base for the Authentaication.
+##I have used Firebase for the Authentaication.
 
 ##Data for this application is coming from external API where I have build this application by using the API.
 

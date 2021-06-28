@@ -1,6 +1,6 @@
 ##This is a simple React app which allows you to buy pictures and use for your work.
 
-##This is a very simple app where it contains implementation of advanced react concepts like React-router, useState, useEffect, custom Hooks, React Context.
+##This is a very simple app where it contains implementation of advanced react concepts like React-router, useState, useEffect, custom Hooks, React Context, React Lazy Loading.
 
 ##I have used Firebase for the Authentaication.
 

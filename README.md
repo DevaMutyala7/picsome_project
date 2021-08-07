@@ -2,12 +2,17 @@
 
 An online Photo store React Application.
 
-##This is a simple React app which allows you to buy pictures and use for your work.
+<img width="950" alt="picsome_interface" src="https://user-images.githubusercontent.com/82375896/128603979-e9e4ed58-2411-4147-9159-62061479addf.png">
 
-##This is a very simple app where it contains implementation of advanced react concepts like React-router, useState, useEffect, custom Hooks, React Context, React Lazy Loading.
 
-##I have used Firebase for the Authentaication.
+## This is a simple React app which allows you to buy pictures and use for your work.
 
-##Data for this application is coming from external API where I have build this application by using the API.
+## This Application contains implementation of advanced react concepts like React-router, useState, useEffect, custom Hooks, React Context, React Lazy Loading and it is a Responsive Web app which fits mobile, Desktop, Tablet screen sizes.
 
-##This application contains only front-end work but it doesn't contain any database or backend work.
+<img width="949" alt="picsome_cart" src="https://user-images.githubusercontent.com/82375896/128604049-ec27d303-6ec9-439a-8482-acc92d7295c4.png">
+
+
+## Firebase has been used for the Authentaication.
+
+## Data for this application is coming from external API.
+
